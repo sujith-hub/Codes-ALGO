@@ -1,3 +1,4 @@
+//iterative binary search
 import java.util.*;
 class BinarySearch {
     // Returns index of x if it is present in arr[].
